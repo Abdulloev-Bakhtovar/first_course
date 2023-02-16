@@ -1,0 +1,3 @@
+﻿  lab_11.cpp
+C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_11\lab_11.cpp(61): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  lab_11.vcxproj -> C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_11\x64\Debug\lab_11.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_09\main.cpp(53,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_09\main.cpp(88,25): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_09.vcxproj -> C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_09\x64\Debug\lab_09.exe

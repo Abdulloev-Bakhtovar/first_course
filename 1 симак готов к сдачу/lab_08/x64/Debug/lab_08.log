@@ -1,0 +1,6 @@
+﻿  lab_08.cpp
+C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_08\lab_08.cpp(68,6): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_08\lab_08.cpp(69,7): warning C4101: file_name: неиспользованная локальная переменная
+  Source.cpp
+  Создание кода...
+  lab_08.vcxproj -> C:\Users\Dell\Desktop\1 симак готов к сдачу\lab_08\x64\Debug\lab_08.exe

@@ -1,0 +1,8 @@
+﻿  Iterator.cpp
+  Main.cpp
+  Vector.cpp
+  Создание кода...
+C:\Users\Dell\Desktop\ССС+++\1 симак готов к сдачу ООП\lab_06\Vector.cpp(46): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Dell\Desktop\ССС+++\1 симак готов к сдачу ООП\lab_06\Vector.cpp(75): warning C4715: Vector::operator+: значение возвращается не при всех путях выполнения
+C:\Users\Dell\Desktop\ССС+++\1 симак готов к сдачу ООП\lab_06\Vector.cpp(68): warning C4172: возвращение адреса локальной или временной переменной : temp
+  lab_06.vcxproj -> C:\Users\Dell\Desktop\ССС+++\1 симак готов к сдачу ООП\lab_06\x64\Debug\lab_06.exe

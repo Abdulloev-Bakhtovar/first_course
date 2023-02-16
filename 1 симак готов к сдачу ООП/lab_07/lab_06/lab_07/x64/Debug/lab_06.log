@@ -1,0 +1,6 @@
+﻿  Iterator.cpp
+  Main.cpp
+  Создание кода...
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Vector<int>::Vector<int>(int,int)" (??0?$Vector@H@@QEAA@HH@Z) в функции main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Vector<int>::~Vector<int>(void)" (??1?$Vector@H@@QEAA@XZ) в функции main.
+C:\Users\Dell\Desktop\ССС+++\1 симак готов к сдачу ООП\lab_07\x64\Debug\lab_06.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

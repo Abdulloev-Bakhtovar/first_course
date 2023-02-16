@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Vector.cpp
+Main.obj : error LNK2001: неразрешенный внешний символ "public: __cdecl Vector<int>::~Vector<int>(void)" (??1?$Vector@H@@QEAA@XZ).
+Main.obj : error LNK2001: неразрешенный внешний символ "public: __cdecl Vector<int>::Vector<int>(int,int)" (??0?$Vector@H@@QEAA@HH@Z).
+C:\Users\Dell\Desktop\ССС+++\1 симак готов к сдачу ООП\lab_07\x64\Release\lab_06.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
